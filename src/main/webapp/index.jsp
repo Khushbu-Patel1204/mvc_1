@@ -3,7 +3,7 @@
 
 <div style="text-align:center;">
 
-<h1>Welcome to Java WebApp Calculator</h1>
+<h1>Welcome to Java WebApp Calculatorr</h1>
 <p> To Add please enter the numbers here </p>
 <form  action = "add">
 <input type = "text" name = "a1"> +
